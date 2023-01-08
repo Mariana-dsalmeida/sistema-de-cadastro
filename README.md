@@ -1,4 +1,4 @@
-<h1>Sitema de cadastro de jogos<h1>
+# Sistema de cadastro de jogos:
 > status do projeto: em desenvolvimento
 Aqui deve ser colocar inforarmações sobre o projeto
 
