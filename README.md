@@ -2,3 +2,6 @@
 > status do projeto: em desenvolvimento
 Aqui deve ser colocar inforarmações sobre o projeto
 
+...
+node app.js
+...
